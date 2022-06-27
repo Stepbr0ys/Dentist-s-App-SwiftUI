@@ -1,9 +1,9 @@
 # Dentist-s-App-SwiftUI
 
 ![image](https://cdn.dribbble.com/users/7822612/screenshots/17282081/media/b58a0f247a85d24e8b58882cbb7069bb.png?compress=1&resize=1600x1200&vertical=top)
-![video](https://cdn.dribbble.com/users/7822612/screenshots/17282081/media/a40f1df24317f4cdae32d723d40baf62.mp4)
-![video](https://cdn.dribbble.com/users/7822612/screenshots/17282081/media/a074d59c725f874eed6b8d65179b72a6.mp4)!
-![video](https://cdn.dribbble.com/users/7822612/screenshots/17282081/media/7156ae58094318d632e5f1376e6f59c7.mp4)
+[video1](https://cdn.dribbble.com/users/7822612/screenshots/17282081/media/a40f1df24317f4cdae32d723d40baf62.mp4)
+[video2](https://cdn.dribbble.com/users/7822612/screenshots/17282081/media/a074d59c725f874eed6b8d65179b72a6.mp4)
+[video3](https://cdn.dribbble.com/users/7822612/screenshots/17282081/media/7156ae58094318d632e5f1376e6f59c7.mp4)
 
 Hi All👋🏻
 Recently I saw a [cool post](https://dribbble.com/shots/17263648-Dentist-s-App) with a design that I wanted to replicate on SwiftUI 🧐
